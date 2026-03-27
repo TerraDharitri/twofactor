@@ -1,6 +1,6 @@
-module github.com/multiversx/twofactor
+module github.com/TerraDharitri/twofactor
 
-go 1.18
+go 1.23
 
 require (
 	github.com/sec51/convert v0.0.0-20151121170152-8ed1f399b5e0
